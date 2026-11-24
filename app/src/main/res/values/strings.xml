@@ -1,3 +1,8 @@
 <resources>
-    <string name="app_name">alambro_appdev</string>
+    <string name="app_name">Alambro</string>
+    <string name="app_title">CompLab 1</string>
+    <string name="app_info">Application ID: com.example.alambro_appdev\nLaboratory: CompLab 1</string>
+    <string name="lifecycle_ready">Lifecycle trace ready…</string>
+    <string name="heartbeat_button">Log Check-In Heartbeat</string>
+    <string name="clear_log">Clear Log</string>
 </resources>
